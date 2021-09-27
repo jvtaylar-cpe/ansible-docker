@@ -7,8 +7,6 @@
   # Install Docker
   # --
   # 
-  # TODO: Make sure you replace user vagrant with your desired administrative
-  #       username for your remote server!
   #
   - name: install prerequisites
     apt:
